@@ -6,6 +6,10 @@ This repository contains the interactive dashboard for the **Deep Learning Segme
 
 The dashboard visualizes the results of a proposed lightweight U-Net model applied to NRCan geophysical data (magnetics, radiometrics, gravity) to predict geological contacts and identify priority revision zones in New Brunswick.
 
+## Project Details
+
+This dashboard is a visualization component designed to accompany the research and development of the U-Net model for geological mapping. It allows geologists to interact with the model's outputs and prioritize areas for ground-truthing, aiming to reduce the cost and time of traditional mapping campaigns.
+
 ## Features
 
 *   **Interactive Web Map:** Built with Leaflet.js, featuring a custom dark-themed base map.
@@ -35,6 +39,10 @@ Because the project uses standard web technologies, you can serve it locally usi
 4.  **Open in your browser:**
     Navigate to `http://localhost:8000` (or the port specified by your server).
 
-## Project Details
+## 📜 License
 
-This dashboard is a visualization component designed to accompany the research and development of the U-Net model for geological mapping. It allows geologists to interact with the model's outputs and prioritize areas for ground-truthing, aiming to reduce the cost and time of traditional mapping campaigns.
+Distributed under the CC License. See `LICENSE` for more information.
+
+## 🤖 Acknowledgements
+
+This project was built with the assistance of the **Antigravity Agent**, (Gemini 3.0 Pro) an advanced AI coding assistant developed by Google DeepMind.

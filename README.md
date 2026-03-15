@@ -39,6 +39,8 @@ Because the project uses standard web technologies, you can serve it locally usi
 4.  **Open in your browser:**
     Navigate to `http://localhost:8000` (or the port specified by your server).
 
+    https://erirera.github.io/NB-Geo-AI/
+
 ## 📜 License
 
 Distributed under the CC License. See `LICENSE` for more information.

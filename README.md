@@ -8,7 +8,7 @@ The dashboard visualizes the results of a proposed lightweight U-Net model appli
 
 ## Project Details
 
-This dashboard is a visualization component designed to accompany the research and development of the U-Net model for geological mapping. It allows geologists to interact with the model's outputs and prioritize areas for ground-truthing, aiming to reduce the cost and time of traditional mapping campaigns.
+This dashboard is a visualization component designed to accompany the research and development of the U-Net model for geological mapping. It allows geologists to interact with the model's outputs and prioritize areas for ground-truthing, aiming to reduce the cost and time of traditional mapping campaigns -  https://erirera.github.io/NB-Geo-AI/
 
 ## Features
 
@@ -55,8 +55,6 @@ Because the project uses standard web technologies, you can serve it locally usi
     *   **Node.js (serve):** `npx serve -l 8000`
 4.  **Open in your browser:**
     Navigate to `http://localhost:8000` (or the port specified by your server).
-
-    https://erirera.github.io/NB-Geo-AI/
 
 ## 📜 License
 

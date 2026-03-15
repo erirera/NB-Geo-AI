@@ -27,6 +27,23 @@ This dashboard is a visualization component designed to accompany the research a
 *   **Mapping Library:** [Leaflet.js](https://leafletjs.com/)
 *   **Heatmap Plugin:** `leaflet-heat.js`
 
+---
+
+## Data Sources
+
+All data sources referenced in the underlying research are freely available:
+
+| Dataset | Source |
+|---|---|
+| Till Geochemistry (Zn, Pb, Cu, Ag, Au, As) | [NB Geological Survey Open Data](https://www2.gnb.ca/content/gnb/en/departments/erd/energy/content/minerals/content/geology_data.html) |
+| Airborne Magnetics (TMI, FVD) | [NRCan Geoscience Repository](https://geoscan.nrcan.gc.ca/) |
+| Airborne Radiometrics (K%, Th, U) | NRCan Airborne Geophysical Surveys |
+| Airborne EM (Conductivity) | NRCan Airborne Geophysical Surveys |
+| Gravity (Bouguer Anomaly) | NRCan Gravity Programme |
+| VMS Deposit Locations | [NB Metallic Minerals Database](https://www2.gnb.ca/content/gnb/en/departments/erd/energy/content/minerals.html) |
+| Barren Drill Records | NB GSB / SEDAR |
+
+---
 ## How to Run
 
 Because the project uses standard web technologies, you can serve it locally using any simple HTTP server.
